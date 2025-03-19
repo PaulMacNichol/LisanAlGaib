@@ -1,0 +1,14 @@
+{
+    "tidal": {
+      "api_key": "YOUR_TIDAL_API_KEY"
+    },
+    "spotify": {
+      "client_id": "YOUR_SPOTIFY_CLIENT_ID",
+      "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET",
+      "access_token": "YOUR_SPOTIFY_ACCESS_TOKEN"
+    },
+    "youtube": {
+      "api_key": "YOUR_YOUTUBE_API_KEY"
+    }
+  }
+  

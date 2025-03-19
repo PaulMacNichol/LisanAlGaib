@@ -1,0 +1,11 @@
+# config/config.yaml
+
+bot:
+  command_prefix: '!'
+  description: 'Lisan Al Gaib - The Divine Discord Music Bot'
+  logging_level: 'INFO'
+
+voice:
+  reconnect: true
+  max_retries: 3
+# Additional settings can be added as needed.
