@@ -117,24 +117,35 @@ For a list of commands and detailed info about the bot, type:
 !info
 ```
 
-Troubleshooting and Tips
-Bot Not Responding
-Ensure the bot is online.
-Check your Discord bot token.
-Make sure the bot has the necessary permissions on your server.
-Voice Connection Issues
-Confirm that you are connected to a voice channel before issuing music commands.
-The bot will only join a channel if the command author is connected.
-API Key Errors
-Double-check that your API keys in config/api_keys.json are valid.
-Invalid or expired keys can prevent the bot from fetching music.
-Logging
-The bot uses a centralized logging system.
-Check the logs for error messages that can help diagnose issues.
-Extending Functionality
-The modular architecture of Lisan Al Gaib makes it easy to add new features or integrate additional platforms. Refer to the project documentation in the docs/ folder for design details and best practices.
+## Troubleshooting and Tips
 
-Final Note
+### Bot Not Responding
+
+- Ensure the bot is online.
+- Check your Discord bot token.
+- Make sure the bot has the necessary permissions on your server.
+
+### Voice Connection Issues
+
+- Confirm that you are connected to a voice channel before issuing music commands.
+- The bot will only join a channel if the command author is connected.
+
+### API Key Errors
+
+- Double-check that your API keys in config/api_keys.json are valid.
+- Invalid or expired keys can prevent the bot from fetching music.
+
+### Logging
+
+- The bot uses a centralized logging system.
+- Check the logs for error messages that can help diagnose issues.
+
+### Extending Functionality
+
+- The modular architecture of Lisan Al Gaib makes it easy to add new features or integrate additional platforms. Refer to the project documentation in the docs/ folder for design details and best practices.
+
+## Final Note
+
 Step into the realm of sound and prophecy. Let Lisan Al Gaib be your guide through the sonic dunes of Arrakis, where every beat is a sacred scripture and every melody a divine commandment. Embrace the sacred cadence of the Spice and elevate your spirit with every note.
 
 May your musical pilgrimage be ever transcendent.
